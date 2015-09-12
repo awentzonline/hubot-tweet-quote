@@ -1,0 +1,19 @@
+{
+  "name": "hubot-tweet-quote",
+  "version": "0.0.0",
+  "private": true,
+  "author": "Adam Wentz <adam@adamwentz.com>",
+  "description": "Tweet quotes with votes (which are quotes).",
+  "main": "./scripts/tweet-quote.coffee",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/awentzonline/hubot-tweet-quote.git"
+  },
+  "dependencies": {
+    "hubot": "^2.16.0",
+    "twit": "^2.1.0"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
