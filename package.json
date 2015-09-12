@@ -1,7 +1,7 @@
 {
   "name": "hubot-tweet-quote",
   "version": "0.0.1",
-  "private": true,
+  "private": false,
   "author": "Adam Wentz <adam@adamwentz.com>",
   "description": "Hubot script that tweets quotes with votes (which are quotes).",
   "main": "./scripts/tweet-quote.coffee",
